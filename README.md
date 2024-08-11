@@ -24,7 +24,7 @@
 #### 8. [Clustering](https://github.com/MarkShinozaki/CPTS315-IntroductionToDataMining/blob/Lecture-Notes/Clustering.pdf) 
 - Introduces unsupervised learning with clustering, an essential contrast to the supervised learning models previously discussed.
 
-### 9. [Recommender Systems](https://github.com/MarkShinozaki/CPTS315-IntroductionToDataMining/blob/Lecture-Notes/recommender-systems.pdf) 
+#### 9. [Recommender Systems](https://github.com/MarkShinozaki/CPTS315-IntroductionToDataMining/blob/Lecture-Notes/recommender-systems.pdf) 
 - Applies machine learning to the specific application of making personalized recommendations, which ties in well after discussing some machine learning algorithms.
 
 #### 10. [Practical advice for applying ML](https://github.com/MarkShinozaki/CPTS315-IntroductionToDataMining/blob/Lecture-Notes/Practical-advice-for-applying-ML.pdf)
