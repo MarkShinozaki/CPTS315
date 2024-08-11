@@ -12,6 +12,7 @@
 - **Semester**: Spring 2023
 - **Meeting Times and Location**: Tue and Thu, 9:10–10:25 am, Bryan Hall 305
 - **Learning Management System**: Piazza and Canvas
+- [**TEXT BOOK FOR THE COURSE**]()
 
 #### Course Description
 This course covers various algorithms for automatically analyzing data to discover knowledge and insights using computers. The focus is on understanding computational problems, scalable algorithms, and real-world applications for each data mining task.
